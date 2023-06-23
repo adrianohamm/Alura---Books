@@ -54,6 +54,7 @@
 
 .descricao__texto{
     font-size: 14px;
+   
 
 }
 
@@ -68,4 +69,8 @@
     color: var(--branco);
     font-weight: 700;
 
+}
+
+.imagem__avaliacao{
+    padding-bottom: 0.5em;
 }
