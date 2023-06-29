@@ -11,4 +11,4 @@ Como Objetivo temos que desenvolver  um layout Responsivo para o Alura Books.
 
 -para criar o carrosel  de imagens utilizamos o Swiper Js.
 
--Foram importadas as fontes utilizadas no projeto do figma do google fontes.
+-Foram importadas as fontes utilizadas no projeto do figma do google fonts.
