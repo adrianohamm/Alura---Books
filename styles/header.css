@@ -108,6 +108,20 @@
     .opcoes__botao{
         display: none;
     }
+    .opcoes__botao:checked~ .opcoes__rotulo > .opcoes__item{
+        background-color: var(--azul);
+        color:var(--branco);
+    }
+    .opcoes__item{
+        padding: 1em 1em;
+    }
+    .lista-menu__item:hover{
+        background: var(--azul);
+    }
+    .lista-menu__item:hover > .lista-menu__link{
+        -webkit-text-fill-color: var(--branco);
+        text-decoration: none;
+    }
 }
 
 @media screen and (min-width:1728px){
